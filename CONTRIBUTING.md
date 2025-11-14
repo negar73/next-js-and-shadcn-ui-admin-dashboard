@@ -25,3 +25,4 @@ Smart Dashboard is built with **React**, **TypeScript**, **TailwindCSS**, **Shad
 2. **Clone your fork**
 ```bash
 git clone https://github.com/YOUR_USERNAME/smart-dashboard.git
+
