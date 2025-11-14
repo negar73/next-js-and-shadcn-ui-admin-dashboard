@@ -34,7 +34,6 @@ src
 └── types             # TypeScript definitions
 ```
 
-If you’d like a more detailed example of this setup, check out the [Next Colocation Template](https://github.com/arhamkhnz/next-colocation-template), where the full structure is explained with examples.
 
 ---
 
